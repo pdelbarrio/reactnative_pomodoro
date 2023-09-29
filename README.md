@@ -19,9 +19,14 @@ This application is designed for implementing the Pomodoro time management techn
 
 ## Screenshots
 
-![Screenshot 1](https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo1_hauf3i.png)
-![Screenshot 2](https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo2_csmd30.png)
-![Screenshot 3](https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo3_jr9xhl.png)
+## Screenshots
+## Screenshots
+
+<div style="display: flex;">
+  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo1_hauf3i.png" alt="Screenshot 1" width="50%" />
+  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo2_csmd30.png" alt="Screenshot 2" width="50%" />
+  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo3_jr9xhl.png" alt="Screenshot 3" width="50%" />
+</div>
 
 
 ## Getting Started
