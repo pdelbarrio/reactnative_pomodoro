@@ -17,16 +17,12 @@ This application is designed for implementing the Pomodoro time management techn
 - Uses `useEffect` in conjunction with `setInterval` to manage time for different options.
 - Incorporates Expo AV library to add sound to the Start/Stop button.
 
-## Screenshots
 
 ## Screenshots
-## Screenshots
 
-<div style="display: flex;">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo1_hauf3i.png" alt="Screenshot 1" width="50%" />
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo2_csmd30.png" alt="Screenshot 2" width="50%" />
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo3_jr9xhl.png" alt="Screenshot 3" width="50%" />
-</div>
+| ![Screenshot 1](https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo1_hauf3i.png) | ![Screenshot 2](https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo2_csmd30.png) | ![Screenshot 3](https://res.cloudinary.com/getoutbcn/image/upload/v1695982766/portfolio/projects/pomo3_jr9xhl.png) |
+| :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+|                                        Screenshot 1                                        |                                        Screenshot 2                                        |                                        Screenshot 3                                        |
 
 
 ## Getting Started
